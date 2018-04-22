@@ -1,0 +1,8 @@
+{
+  "name": "elastic_search",
+  "app_id": "b8983515",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
